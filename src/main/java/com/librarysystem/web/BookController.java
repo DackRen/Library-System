@@ -2,7 +2,7 @@ package com.librarysystem.web;
 
 import java.util.List;
 
-import com.librarysystem.domain.entity.Book;
+import com.librarysystem.entity.Book;
 import com.librarysystem.dto.AppointExecution;
 import com.librarysystem.dto.Result;
 import com.librarysystem.enums.AppointStateEnum;

@@ -1,6 +1,6 @@
 package com.librarysystem.dto;
 
-import com.librarysystem.domain.entity.Appointment;
+import com.librarysystem.entity.Appointment;
 import com.librarysystem.enums.AppointStateEnum;
 
 /**

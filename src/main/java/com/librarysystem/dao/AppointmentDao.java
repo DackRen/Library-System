@@ -1,8 +1,10 @@
-package com.librarysystem.domain.dao;
+package com.librarysystem.dao;
 
-import com.librarysystem.domain.entity.Appointment;
+import com.librarysystem.entity.Appointment;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
 
+@Repository
 public interface AppointmentDao {
 
     /**

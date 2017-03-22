@@ -1,6 +1,6 @@
 package com.librarysystem.service;
 
-import com.librarysystem.domain.entity.Book;
+import com.librarysystem.entity.Book;
 import com.librarysystem.dto.AppointExecution;
 
 import java.util.List;

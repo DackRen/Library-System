@@ -1,9 +1,9 @@
 package com.librarysystem.service.impl;
 
-import com.librarysystem.domain.dao.AppointmentDao;
-import com.librarysystem.domain.dao.BookDao;
-import com.librarysystem.domain.entity.Appointment;
-import com.librarysystem.domain.entity.Book;
+import com.librarysystem.dao.AppointmentDao;
+import com.librarysystem.dao.BookDao;
+import com.librarysystem.entity.Appointment;
+import com.librarysystem.entity.Book;
 import com.librarysystem.dto.AppointExecution;
 import com.librarysystem.enums.AppointStateEnum;
 import com.librarysystem.exception.AppointException;

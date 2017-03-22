@@ -1,10 +1,12 @@
-package com.librarysystem.domain.dao;
+package com.librarysystem.dao;
 
-import com.librarysystem.domain.entity.Book;
+import com.librarysystem.entity.Book;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+@Repository
 public interface BookDao {
 
     /**

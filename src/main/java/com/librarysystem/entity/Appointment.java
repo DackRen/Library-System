@@ -1,13 +1,16 @@
-package com.librarysystem.domain.entity;
+package com.librarysystem.entity;
 
 /**
  * Created by renjunzhou on 2017/3/13.
  */
+import org.springframework.stereotype.Repository;
+
 import java.util.Date;
 
 /**
  * 预约图书实体
  */
+
 public class Appointment {
     private long bookId;// 图书ID
     private long studentId;// 学号

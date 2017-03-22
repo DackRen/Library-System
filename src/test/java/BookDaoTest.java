@@ -2,8 +2,8 @@
  * Created by renjunzhou on 2017/3/13.
  */
 
-import com.librarysystem.domain.dao.BookDao;
-import com.librarysystem.domain.entity.Book;
+import com.librarysystem.dao.BookDao;
+import com.librarysystem.entity.Book;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

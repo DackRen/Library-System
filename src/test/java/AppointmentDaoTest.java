@@ -1,5 +1,5 @@
-import com.librarysystem.domain.dao.AppointmentDao;
-import com.librarysystem.domain.entity.Appointment;
+import com.librarysystem.dao.AppointmentDao;
+import com.librarysystem.entity.Appointment;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

@@ -1,4 +1,6 @@
-package com.librarysystem.domain.entity;
+package com.librarysystem.entity;
+
+import org.springframework.stereotype.Repository;
 
 /**
  * Created by renjunzhou on 2017/3/13.
